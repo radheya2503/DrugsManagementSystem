@@ -1,4 +1,5 @@
-**Drug Management System **
+Drug Management System
+
 This is a simple Java-based drug management system that allows users to add, view, search, and delete drug records. It uses an ArrayList to store drug data and provides a command-line interface for interaction.  
 
 Features  
